@@ -1,0 +1,11 @@
+node_modules
+dist
+.git
+*.log
+build_output.txt
+temp-vite
+legacy
+build_vite5.log
+build_full.log
+build_minimal.log
+build_debug.log
